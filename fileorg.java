@@ -64,7 +64,7 @@ public class fileorg {
 
     public static void main(String[] args) {
         try {
-            String mainDir = "/home/kidfromsanta/Desktop/testez (copy)"; // Update this path
+            String mainDir = "/home/kidfromsanta/Desktop/testez (copy)"; 
             organize(mainDir);
         } catch (IOException e) {
             e.printStackTrace();
